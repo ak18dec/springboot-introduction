@@ -14,10 +14,5 @@ public class ExampleController {
     public String hello() {
         return "hello (" + hostInfoService.getHostName() + ")";
     }
-//    
-//    @Bean
-//    @Scope("application")
-//    public HostInfoService hostInfoService() {
-//        return new HostInfoService();
-//    }
+
 }
