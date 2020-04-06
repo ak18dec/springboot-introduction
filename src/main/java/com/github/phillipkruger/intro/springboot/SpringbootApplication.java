@@ -1,4 +1,4 @@
-package ms.opencloudsummit;
+package com.github.phillipkruger.intro.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
