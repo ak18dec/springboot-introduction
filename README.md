@@ -1,5 +1,9 @@
-# oss-summit-springboot
-Springboot Demo for OSS Summit 2019
+# Springboot Introduction
+Basic Springboot Demo
+
+## Links
+- Install Openshift on localhost: https://developers.redhat.com/openshift/local-openshift/
+- Create a starter project: https://start.spring.io/
 
 ## Deploy to Openshift
 
